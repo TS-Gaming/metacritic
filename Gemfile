@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-
+gem 'unirest'
 gem 'httparty'
 
 gem 'foundation-rails'
